@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.container form{
+    border-radius: 10px;
+    background-color: #263238;
+    position: absolute;
+    top: 27%;
+    left: 37%;
+    align-items: center;
+    padding: 2%;
+    color: #fff;
+}

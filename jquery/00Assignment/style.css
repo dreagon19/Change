@@ -1,0 +1,26 @@
+
+body{
+    background-color: #C6DCE4;
+    color: black;
+}
+
+td,tr,th{
+    text-align: center;
+
+}
+th{
+    margin-bottom: 2%;
+}
+td{
+    padding: 15px;
+}
+.hover:hover{
+    background-color: #DAEAF1;
+}
+i{
+    padding-bottom: 5px;
+    font-size: 24px;
+}
+
+
+

@@ -1,0 +1,28 @@
+p {
+  padding: 0;
+  margin: 0;
+}
+.display-text {
+  background-color: #2d4263;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  padding: 1.5%;
+  border: 2px solid #191919;
+  border-radius: 30px;
+  margin: 1px;
+}
+i {
+  padding: 10px;
+  font-size: 18px;
+}
+.fa-pen:hover {
+  background-color: #3ec70b;
+  color: #000;
+  border-radius: 20px;
+}
+.fa-xmark:hover {
+  background-color: red;
+  color: #fff;
+  border-radius: 25px;
+}

@@ -1,0 +1,29 @@
+*{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    background-color: #7F8487;
+    
+}
+.container{
+    position: absolute;
+    top: 18%;
+    left: 7%;
+}
+
+.col{
+    border: 4px solid #7F8487;
+}
+
+#hours{
+    background-color: #413F42;
+    font-size: 20rem;
+}
+#minutes{
+  background-color: #413F42;
+   font-size: 20rem;
+}
+#seconds{
+    background-color: #413F42;
+    font-size: 20rem;
+
+}

@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #82DBD8;
+}
+
+#box{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 30%;
+    left: 28%;
+    align-items: center;
+}
+.p{
+    margin-bottom: 3%;
+}
+#count{
+   text-align: center;
+   color: #F1F0C0;
+   font-size: 48px;
+}
+.btn{
+    border: none;
+    width: 300px;
+    height: 100px;
+    border-radius: 50px;
+    color: #fff;
+    background-color: #EB5353;
+    font-size: 19px;
+}
+#bg-text{
+    color: #fff;
+    border: 1px solid black;
+    text-align: center;
+}
+

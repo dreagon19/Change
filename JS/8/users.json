@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "OnePlus Nord 2",
+    "type": "phone"
+  },
+  {
+    "id": 2,
+    "name": "OnePlus Buds Z2",
+    "type": "Buds"
+  },
+  {
+    "id": 3,
+    "name": "OnePlus Charger",
+    "type": "charger"
+  }
+]

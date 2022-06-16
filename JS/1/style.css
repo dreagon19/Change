@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#full{
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+}
+
+.btn{
+    border: none;
+    background-color: #7D1E6A;
+    width: fit-content;
+    padding: 3% 7%;
+    border-radius: 150px;
+    color: #fff;
+    margin: auto;
+    position: relative;
+    top: 50%;
+
+}
